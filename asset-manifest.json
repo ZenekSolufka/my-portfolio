@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/my-portfolio/static/css/main.50d9f843.css",
+    "main.js": "/my-portfolio/static/js/main.0ead6051.js",
+    "static/media/bg.png": "/my-portfolio/static/media/bg.3d421b1b5682e1b67deb.png",
+    "static/media/welcome.png": "/my-portfolio/static/media/welcome.d724eb984456d9c97470.png",
+    "static/media/findus.png": "/my-portfolio/static/media/findus.585c393ccd3671513743.png",
+    "static/media/laurels.png": "/my-portfolio/static/media/laurels.e760828692795d4aafd7.png",
+    "static/media/chef.png": "/my-portfolio/static/media/chef.02d6c5b61bfdc70303b4.png",
+    "static/media/menu.png": "/my-portfolio/static/media/menu.a8287c67809afebcc280.png",
+    "static/media/gallery04.png": "/my-portfolio/static/media/gallery04.c36a695f8a3b9d311106.png",
+    "static/media/gallery03.png": "/my-portfolio/static/media/gallery03.b2d50180e8590d4dd330.png",
+    "static/media/gericht.png": "/my-portfolio/static/media/gericht.3494ed6c0ed8b9edf3c4.png",
+    "static/media/gallery02.png": "/my-portfolio/static/media/gallery02.27663bd9016b72ccd328.png",
+    "static/media/gpt3.png": "/my-portfolio/static/media/gpt3.2bfaf6bca83979375741.png",
+    "static/media/gallery01.png": "/my-portfolio/static/media/gallery01.f2cbffe3049d6f91e0df.png",
+    "static/media/image2.jpeg": "/my-portfolio/static/media/image2.a58e3665190c6d14f73d.jpeg",
+    "static/media/knife.png": "/my-portfolio/static/media/knife.1121c0a5afb62acb31cb.png",
+    "static/media/overlaybg.png": "/my-portfolio/static/media/overlaybg.165362eea72d1614ae28.png",
+    "static/media/fylo.png": "/my-portfolio/static/media/fylo.a4588a118708630887a5.png",
+    "static/media/G.png": "/my-portfolio/static/media/G.b571eb82e589ec305ec9.png",
+    "static/media/logo.png": "/my-portfolio/static/media/logo.0286194c03de0a90dac9.png",
+    "static/media/award02.png": "/my-portfolio/static/media/award02.8bbdd51499739653b003.png",
+    "static/media/award05.png": "/my-portfolio/static/media/award05.48a7f5206184009dcb29.png",
+    "static/media/award01.png": "/my-portfolio/static/media/award01.361a4bc44b59b55abeda.png",
+    "static/media/award03.png": "/my-portfolio/static/media/award03.3f7ee934c17dccbd5fc6.png",
+    "static/media/sign.png": "/my-portfolio/static/media/sign.9bf0bd90ad4caa17991f.png",
+    "index.html": "/my-portfolio/index.html",
+    "static/media/spoon.svg": "/my-portfolio/static/media/spoon.d079f43fbcf509908d3865293080795a.svg",
+    "main.50d9f843.css.map": "/my-portfolio/static/css/main.50d9f843.css.map",
+    "main.0ead6051.js.map": "/my-portfolio/static/js/main.0ead6051.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.50d9f843.css",
+    "static/js/main.0ead6051.js"
+  ]
+}
