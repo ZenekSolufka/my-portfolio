@@ -1,0 +1,114 @@
+.about {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 60px;
+    margin: 70px 10%;
+}
+
+.title-box{
+    position: relative;
+}
+
+.title-box h1 {
+    padding: 0 30px;
+    font-size: 60px;
+    font-weight: 600;
+}
+
+.about-sections {
+    display: flex;
+    gap: 60px;
+}
+
+.about-left img {
+    width: 300px;
+    border-radius: 10px;
+}
+
+.about-right {
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+}
+
+.about-para {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.about-skills {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.about-skill {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    transition: .3s;
+}
+
+.about-skill:hover {
+    transform: scale(110%);
+}
+
+.about-skill p {
+    min-width: 130px;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.about-skill hr {
+    outline: none;
+    border: none;
+    width: 50%;
+    height: 8px;
+    border-radius: 50px;
+    background: linear-gradient(90deg, rgb(170, 0, 182), rgb(255, 187, 0));
+}z
+
+.html {
+    width: 90%;
+}
+
+.react {
+    width: 55%;
+}
+
+.js {
+    width: 70%;
+}
+
+.tws {
+    width: 75%;
+}
+
+.about-education {
+    text-align: center;
+}
+
+.about-education hr {
+    margin: 10px 0 10px;
+    border: none;
+    height: 3px;
+    border-radius: 10px;
+    background: linear-gradient(90deg, rgb(170, 0, 182), rgb(255, 187, 0));
+}
+
+.about-education h1, h2, h3 {
+
+    letter-spacing: 3px;
+    padding: 5px 35px 5px;
+}
+
+.about-education h2 {
+    font-size: 32px;
+    font-weight: 700;
+
+}
